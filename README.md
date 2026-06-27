@@ -43,12 +43,15 @@
 | 04 | 核心架构 | 单步 Agent Loop（ASCII 流程图）与五大要素 |
 | 05 | Addy Osmani 六大组件 | Automations / Worktrees / Skills / MCP / Sub-agents / State |
 | 06 | LangChain 四层循环堆叠 | L1 Agent → L2 Verify → L3 Event → L4 Hill-Climb |
-| 07 | 主流循环模式对比 | ReAct / Reflexion / Self-Refine / ToT / Evaluator-Optimizer |
-| 08 | 主流产品如何实现 Loop | Claude Code / Codex / LangGraph / Cursor / Devin |
-| 09 | 关键挑战与解法 | 上下文爆炸、Token 成本、终止条件、安全权限 |
-| 10 | 五个常见误区 | 把 Loop 等同于 while 循环等典型陷阱 |
-| 11 | 推荐学习路径 | 论文 / 博文 / 项目 / 中文资料 四条线索 |
-| 12 | 参考资料 | 10+ 条带置信度标签的一手链接 |
+| 07 | 代码片段速览 | LangGraph create_agent / Claude Code /goal / MCP 子 Agent 配置 |
+| 08 | 主流循环模式对比 | ReAct / Reflexion / Self-Refine / ToT / Evaluator-Optimizer |
+| 09 | 主流产品如何实现 Loop | Claude Code / Codex / LangGraph / Cursor / Devin / Swarm / Aider |
+| 10 | 关键挑战与解法 | 上下文爆炸、Token 成本、终止条件、安全权限 |
+| 11 | 五个常见误区 | 把 Loop 等同于 while 循环等典型陷阱 |
+| 12 | 推荐学习路径 | 论文 / 博文 / 项目 / 中文资料 四条线索 |
+| 13 | 术语速查表 | Harness / Maker-Checker / MCP / Trace / Autoresearch 等 12 个术语 |
+| 14 | 常见疑问 FAQ | 什么时候不该用 Loop、Loop 工程 = LangGraph 吗？ |
+| 15 | 参考资料 | 10+ 条带置信度标签的一手链接 |
 
 ---
 
