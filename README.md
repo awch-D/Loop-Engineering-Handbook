@@ -3,7 +3,7 @@
 > A practical handbook on **Loop Engineering** — the emerging paradigm for building self-running AI agents. From ReAct to Claude Code's `/loop`.
 
 <p align="center">
-  <a href="#-在线预览"><img src="https://img.shields.io/badge/preview-online-5b6cff?style=flat-square" alt="preview"/></a>
+  <a href="https://awch-d.github.io/Loop-Engineering-Handbook/"><img src="https://img.shields.io/badge/preview-online-5b6cff?style=flat-square" alt="preview"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-34c759?style=flat-square" alt="license"/></a>
   <img src="https://img.shields.io/badge/format-single--html-ff9500?style=flat-square" alt="single html"/>
   <img src="https://img.shields.io/badge/lang-中文-1d1d1f?style=flat-square" alt="zh-CN"/>
@@ -54,7 +54,11 @@
 
 ## 🚀 在线预览
 
-> 部署到 GitHub Pages 后将提供在线访问。本地查看只需双击 `index.html`。
+**👉 [awch-d.github.io/Loop-Engineering-Handbook](https://awch-d.github.io/Loop-Engineering-Handbook/)**
+
+每次推送到 `main` 分支会通过 GitHub Actions 自动重新部署。
+
+本地查看只需双击 `index.html`：
 
 ```bash
 git clone https://github.com/awch-D/Loop-Engineering-Handbook.git
